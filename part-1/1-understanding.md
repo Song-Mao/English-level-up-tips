@@ -185,4 +185,4 @@ Make it a habit like brushing your teeth.
 
 
 
-下一篇：[单词篇](2-vocabulary.md)
+下一篇：[单词篇](part-1/2-vocabulary.md)

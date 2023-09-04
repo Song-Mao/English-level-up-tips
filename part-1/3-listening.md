@@ -235,4 +235,4 @@ Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你�
 - [朱利安·特瑞雪: 怎样说话人们才会听](https://www.youtube.com/watch?v=eIho2S0ZahI) | [B 站链接](http://www.bilibili.com/video/av2915315/)
 - [Sia - Chandelier (Official Video)](https://www.youtube.com/watch?v=2vjPBrBU-TM) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQxMjMwNA==.html)
 
-下一篇：[阅读篇](4-reading.md)
+下一篇：[阅读篇](part-1/4-reading.md)

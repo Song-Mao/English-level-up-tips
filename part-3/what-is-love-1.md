@@ -115,4 +115,4 @@
 
 ![](https://i.loli.net/2021/11/26/X8rEAaO4dnJp7ky.jpg)
 
-查看一下篇: [被伤过的心还可以爱谁](what-is-love-2.md)
+查看一下篇: [被伤过的心还可以爱谁](part-3/what-is-love-2.md)
